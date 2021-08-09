@@ -1,1 +1,2 @@
-# CartaoVisitas é uma projeto Android onde é possível criar vários cartões de visitas através do cadastro simples e após isso compartilhar a imagem gerada.
+Projeto Android e Kotlin.
+Cadastro e compartilhamento de cartão de visita.
